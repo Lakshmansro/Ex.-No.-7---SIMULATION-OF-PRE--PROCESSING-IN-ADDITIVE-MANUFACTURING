@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2023-12-23 190746](https://github.com/Lakshmansro/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139961914/94b8d39d-fc2e-4c88-8865-4cdb2d25e388)
 
-### Name:
-### Register Number:
+
+### Name: Sri lakshman
+### Register Number:23004121
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
